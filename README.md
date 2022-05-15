@@ -23,6 +23,9 @@ https://nocommandline.com/#demo
 ## Download
 https://nocommandline.com/download/ 
 
+## Features
+https://nocommandline.com/#features
+
 ## Website
 https://nocommandline.com/
 
