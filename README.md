@@ -16,9 +16,12 @@ A GUI for Google App Engine. An improved replacement for the old Google App Engi
  
 ![NoCommandLine Screenshot](https://nocommandline.com/static/images/NoCommandLine_WithProjects_1.png)
 
-
 ## Demos
 https://nocommandline.com/#demo 
+
+## Supported OS/Platform
+- OS X
+- Windows (10)
 
 ## Download
 https://nocommandline.com/download/ 
