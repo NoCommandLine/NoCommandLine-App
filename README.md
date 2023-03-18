@@ -7,12 +7,13 @@ A GUI for Google App Engine. An improved replacement for the old Google App Engi
     - Non-technical folks can deploy code
     - Support for custom/user-defined environment variables & flags :new:
     - Run app with `dev_appserver.py` or your language idiomatic way (e.g. `python main.py`, `flask run`)
+        - **Windows**: Use our <a href="https://github.com/NoCommandLine/dev_appserver-python3-windows/">Patch</a> to run Python 3 Apps with `dev_appserver.py` on Windows platform 
 - Tick a checkbox to set/unset an option
     - Don't struggle to remember gcloud flags/commands
 - GUI for datastore emulator
-    - View/Edit/Delete local datastore data from a GUI
+    - View/Edit/Delete dev or production datastore data from a GUI
     - Export datastore data as CSV or JSON (production or dev environments) :new:
-    -  Import exported data into datastore (production or dev environments) :new:
+    - Import exported data into datastore (production or dev environments) :new:
 - See all projects on a single UI
     - Don't keep multiple folders open just to remember your different projects 
 - **Download your source code** 
