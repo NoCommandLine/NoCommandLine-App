@@ -14,6 +14,7 @@ A GUI for Google App Engine. An improved replacement for the old Google App Engi
     - View/Edit/Delete dev or production datastore data from a GUI
     - Export datastore data as CSV or JSON (production or dev environments) :new:
     - Import exported data into datastore (production or dev environments) :new:
+    - Import data from local/legacy datastore (*created with older runtime generations such as Python 2; not linked to Cloud Datastore Emulator*) into Cloud Datastore Emulator for use with newer runtimes such as Python 3 :new:
 - See all projects on a single UI
     - Don't keep multiple folders open just to remember your different projects 
 - **Download your source code** 
