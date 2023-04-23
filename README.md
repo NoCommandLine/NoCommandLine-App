@@ -23,7 +23,7 @@ A GUI for Google App Engine. An improved replacement for the old Google App Engi
 ![NoCommandLine Screenshot](https://nocommandline.com/static/images/NoCommandLine_WithProjects_1.png)
 
 ## gcloud CLI Supported Versions
-- version 426.0.0 and lower
+- [version 426.0.0](https://cloud.google.com/sdk/docs/release-notes#42600_2023-04-11) and lower
 
 ## Demos
 https://nocommandline.com/#demo 
