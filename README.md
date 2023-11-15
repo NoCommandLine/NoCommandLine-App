@@ -1,4 +1,4 @@
-# NoCommandLine v3.0.3
+# NoCommandLine (v3.0.3)
 
 A GUI for Google App Engine & Datastore Emulator. An improved replacement for the old Google App Engine Launcher. 
 - Click a button to run code on dev or deploy to production 
