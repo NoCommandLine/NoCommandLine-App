@@ -20,7 +20,7 @@ A GUI for Google App Engine & Datastore Emulator. An improved replacement for th
 - **Download your source code** 
 - See full list of features - https://nocommandline.com/#features
  
-![NoCommandLine Screenshot](https://nocommandline.com/static/images/NoCommandLine_WithProjects_1.png)
+![NoCommandLine Screenshot](https://nocommandline.com/static/images/NoCommandLine_WithProjects_1_W_820.png)
 
 ![Datastore Emulator GUI Screenshot](https://nocommandline.com/static/images/datastore_viewer/DS_Viewer_Default.png)
 
