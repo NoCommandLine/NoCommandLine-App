@@ -38,7 +38,6 @@ A GUI for Google App Engine, Cloud Run & Datastore Emulator.
 - See full list of features - https://nocommandline.com/#features
  
 
-
 ## Demos
 https://nocommandline.com/#demo 
 
